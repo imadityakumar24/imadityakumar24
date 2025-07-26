@@ -3,8 +3,8 @@
 ### 💻 Aspiring Software Developer
 
 I'm passionate about solving real-world problems using **Data Structures & Algorithms**.  
-📚 Constantly learning full-stack development and competitive programming.  
-🔗 Open to software development and FullStack development roles and collaborations!
+📚 Constantly learning full-stack development and Data Structures & Algorithms for problem solving.  
+🔗 Open to software development and full-stack development roles and collaborations!
 
 ---
 
@@ -19,24 +19,31 @@ I'm passionate about solving real-world problems using **Data Structures & Algor
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/imadityakumar12)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/imadityakumar24)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/imadityakumar24)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumar5328@gmail.com)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right:10px;"/>
+</p>
 
 ---
 
-### 🛠️ Skills
+### 🌐 Socials
 
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cpp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="left">
+  <a href="https://github.com/imadityakumar24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/imadityakumar24" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/imadityakumar12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -49,5 +56,6 @@ I'm passionate about solving real-world problems using **Data Structures & Algor
 ### 🔝 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadityakumar24&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
