@@ -11,10 +11,11 @@ I'm passionate about solving real-world problems using **Data Structures & Algor
 ### 👨‍💻 About Me
 
 🌍 I'm based in **Bathinda, Punjab, India**  
-🖥️ See my portfolio at **Codolio**: [imadityakumar24](https://codolio.com/profile/imadityakumar24)  
-🖥️ See my portfolio at **LeetCode**: [imadityakumar24](https://leetcode.com/u/imadityakumar24/)  
+🖥️ See my Coding Profile at **Codolio**: [imadityakumar24](https://codolio.com/profile/imadityakumar24)  
+🖥️ See my Porfile at **LeetCode**: [imadityakumar24](https://leetcode.com/u/imadityakumar24/)  
 ✉️ You can contact me at: **adityakumar5328@gmail.com**  
 🚀 I'm currently learning **Full Stack Development**  
+🚀 Improving my Problem Solving skills by solving **DSA Problems** <br>
 🧠 Strong in **Data Structures & Algorithms**  
 ✅ Solved **200+ problems** on **LeetCode** and **GeeksforGeeks**
 
