@@ -10,7 +10,8 @@ I'm passionate about solving real-world problems using **Data Structures & Algor
 
 ### 👨‍💻 About Me
 
-🌍 I'm based in **Bathinda, Punjab, India**  
+🌍 I'm based in **Bathinda, Punjab, India** <br>
+💻 My DSA Practice Repo  [DS & Algo Package for Interview](https://github.com/imadityakumar24/Data-Structure-and-Algorithms) <br>
 🖥️ See my Coding Profile at **Codolio**: [imadityakumar24](https://codolio.com/profile/imadityakumar24)  
 🖥️ See my Porfile at **LeetCode**: [imadityakumar24](https://leetcode.com/u/imadityakumar24/)  
 ✉️ You can contact me at: **adityakumar5328@gmail.com**  
